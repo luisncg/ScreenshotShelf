@@ -9,6 +9,7 @@ Screenshot Shelf keeps Mac screenshots off the Desktop and puts recent captures 
 - Copy a screenshot or drag it into another app
 - Open the full shelf from the menu bar
 - Import older Desktop screenshots when needed
+- Checks for updates automatically
 
 ## Install
 

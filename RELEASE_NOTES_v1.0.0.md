@@ -9,6 +9,7 @@ Initial release.
 - Recent screenshot popup with Copy and View Shelf actions
 - Drag screenshots into other apps
 - Import existing Desktop screenshots
+- Automatic update checks from the menu bar app
 - Signed and notarized macOS DMG
 
 ## Download
@@ -18,5 +19,5 @@ Download `ScreenshotShelf-1.0.0.dmg` from this release.
 SHA-256:
 
 ```text
-996c1067b464bd44bfe9c59fee80a1dd44267d8175a465c5dbfa8ef5af32e1c6  ScreenshotShelf-1.0.0.dmg
+0d2a9894e20d473b570848077bbac41e16ed13b64906029a087c47d91cbae78a  ScreenshotShelf-1.0.0.dmg
 ```
