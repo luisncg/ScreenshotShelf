@@ -6,6 +6,25 @@
     <description>Updates for Screenshot Shelf.</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.5</title>
+      <description><![CDATA[
+        <ul>
+          <li>Improves screenshot cropping controls in the large preview.</li>
+          <li>Makes preview editing feel smoother before applying changes.</li>
+          <li>Includes minor polish and reliability improvements.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 23 Jun 2026 22:18:04 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/luisncg/ScreenshotShelf/releases/download/v1.0.5/ScreenshotShelf-1.0.5.dmg"
+        sparkle:edSignature="QB71mrmQC80xS9mjVMn2YKNROR3DjetFBWolI+Wmk935LmagSRyWbgjjkvZwI4eFxMxL40JKMrCRGIQdUEqRBQ=="
+        length="2050664"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.0.4</title>
       <description><![CDATA[
         <ul>
