@@ -16,5 +16,5 @@ Download `ScreenshotShelf.dmg` from this release.
 SHA-256:
 
 ```text
-42a40e890ae00a66a1c69632ec0471b92a0e53532439a90a934e3b98237a08ef  ScreenshotShelf.dmg
+f0558b9848d3c7b6da69eb2f42249c3f9c3ff410631c7ac184a224b0739d9cac  ScreenshotShelf.dmg
 ```

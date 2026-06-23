@@ -15,13 +15,13 @@
         </ul>
       ]]></description>
       <pubDate>Tue, 23 Jun 2026 02:34:49 +0000</pubDate>
-      <sparkle:version>5</sparkle:version>
+      <sparkle:version>6</sparkle:version>
       <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/luisncg/ScreenshotShelf/releases/download/v1.0.4/ScreenshotShelf-1.0.4.dmg"
-        sparkle:edSignature="aYEdBJ24q3Pi+um3NeRAIeWaE0j+wmHpki/hipZpatoKG3EV2707x25nzj2ytZxOSOKqXRNVP6n8Z1ZHbk9JBw=="
-        length="1800005"
+        sparkle:edSignature="sUNzLG3V0lw8jV6D6RJk+GKT/B0I9P2Fc07k0RLFqWzOfzuGWM3+WurOoykCh6w7YLug6mdAygzZeuOpNDMyAw=="
+        length="1800979"
         type="application/octet-stream" />
     </item>
     <item>
