@@ -6,6 +6,25 @@
     <description>Updates for Screenshot Shelf.</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.4</title>
+      <description><![CDATA[
+        <ul>
+          <li>Improves the screenshot preview and editing flow.</li>
+          <li>Adds more flexible ways to work with screenshots from the shelf.</li>
+          <li>Includes polish and reliability improvements throughout the app.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 23 Jun 2026 02:34:49 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/luisncg/ScreenshotShelf/releases/download/v1.0.4/ScreenshotShelf-1.0.4.dmg"
+        sparkle:edSignature="aYEdBJ24q3Pi+um3NeRAIeWaE0j+wmHpki/hipZpatoKG3EV2707x25nzj2ytZxOSOKqXRNVP6n8Z1ZHbk9JBw=="
+        length="1800005"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.0.3</title>
       <description><![CDATA[
         <ul>
