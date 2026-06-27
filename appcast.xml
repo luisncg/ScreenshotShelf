@@ -6,6 +6,25 @@
     <description>Updates for Screenshot Shelf.</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.6.1</title>
+      <description><![CDATA[
+        <ul>
+          <li>Adds more screenshot options from the menu bar.</li>
+          <li>Improves local testing builds so permissions and versioning behave consistently.</li>
+          <li>Includes small polish and reliability improvements.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 27 Jun 2026 15:55:09 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.0.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/luisncg/ScreenshotShelf/releases/download/v1.0.6.1/ScreenshotShelf-1.0.6.1.dmg"
+        sparkle:edSignature="CJnlK82SIqjuIOx2lRIkewEFq0E9U23AwYEzBW7gZ9NiQfNbAXSVTZWV6n3LBOjNxC+HK/8Nw7xL2/fGBbCoCw=="
+        length="2061307"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.0.6</title>
       <description><![CDATA[
         <ul>
